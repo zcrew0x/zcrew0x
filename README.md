@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/kyletran191">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyletran191&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kyletran191"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyletran191&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/kyletran191"><img src="https://github-profile-trophy.vercel.app/?username=kyletran191&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" />
 </a></p>
 <h1 align="center">Hi there 👋, I'm Kyle Tran</h1>
 <h3 align="center">A normal developer</h3>
