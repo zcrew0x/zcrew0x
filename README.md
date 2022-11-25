@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Kyle Tran</h1>
 <h3 align="center">A normal developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyletran191kyletran191&label=Profile%20views&color=0e75b6&style=flat" alt="kyletran191kyletran191" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyletran191&label=Profile%20views&color=0e75b6&style=flat" alt="kyletran191" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletran191kyletran191" alt="kyletran191kyletran191" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletran191" alt="kyletran191" /></a> </p>
 
 - 🔭 I’m currently working on **Kyle Dev**
 
@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyletran191kyletran191&show_icons=true&locale=en&layout=compact" alt="kyletran191kyletran191" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyletran191kyletran191&show_icons=true&locale=en" alt="kyletran191kyletran191" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyletran191&show_icons=true&locale=en" alt="kyletran191" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyletran191kyletran191&" alt="kyletran191kyletran191" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyletran191&" alt="kyletran191" /></p>
 
