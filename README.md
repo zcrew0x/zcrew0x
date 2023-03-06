@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://dev.to/kyletran191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyletran191" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tran-kha-b948b0244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tran-kha-b948b0244" height="30" width="40" /></a>
-<a href="https://fb.com/kyle1901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle1901" height="30" width="40" /></a>
+<a href="https://fb.com/kyletran.1901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle1901" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kyletran191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kyletran191" height="30" width="40" /></a>
 <a href="https://discord.gg/KyleTran#0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KyleTran#0206" height="30" width="40" /></a>
 </p>
