@@ -10,11 +10,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletran191&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="kyletran191" /></a> </p>
 
-- 🔭 I’m currently working on **Zeros Dev Ltd**
+- 🔭 I’m currently working on **KyleTran Inc.**
 
 - 👨‍💻 All of my information are available at [https://tranbaokha.com](https://tranbaokha.com)
-
-- 💬 Ask me about **hmm**
 
 - 📫 How to reach me **contact@tranbaokha.com**
 
