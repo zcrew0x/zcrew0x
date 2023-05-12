@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kyletran191"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyletran191&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<h1 align="center">Hi there 👋, I'm Kyle Tran</h1>
+<h1 align="center">Hi there 👋, I'm Kyle Tran<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
 <h3 align="center">A normal developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kyletran191&label=Profile%20views&color=0e75b6&style=flat" alt="kyletran191" /> </p>
