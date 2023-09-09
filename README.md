@@ -10,21 +10,16 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletran191&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="kyletran191" /></a> </p>
 
-- 🔭 I’m currently working on **KyleTran Inc.**
+- 🔭 I’m currently working on **Vortex Net**.
 
-- 👨‍💻 All of my information are available at [https://tranbaokha.com](https://tranbaokha.com)
-
-- 📫 How to reach me **info@kyle.us.to**
-
-- ⚡ Fun fact **Nothing:)**
+- 📫 Contact **info@kyleworkx.space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kyletran191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyletran191" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tran-kha-b948b0244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tran-kha-b948b0244" height="30" width="40" /></a>
 <a href="https://fb.com/kyletran.1901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle1901" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kyletran191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kyletran191" height="30" width="40" /></a>
-<a href="https://discord.gg/KyleTran#0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KyleTran#0206" height="30" width="40" /></a>
+<a href="https://discord.com/invite/JfBe2EswJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KyleTran#0206" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
