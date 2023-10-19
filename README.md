@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Vortex Net**.
 
-- 📫 Contact **info@kyleworkx.space**
+- 📫 Contact **info@xvortex.pro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
