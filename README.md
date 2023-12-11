@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/zcrew0x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcrew0x&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<h1 align="center">Hi there 👋, I'm ZCrew0x Tran<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
+<h1 align="center">Hi there 👋, I'm ZCrew0x <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
 <h3 align="center">A normal developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zcrew0x&label=Profile%20views&color=0e75b6&style=flat" alt="zcrew0x" /> </p>
