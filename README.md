@@ -1,18 +1,14 @@
-<p align="center"><a href="https://github.com/kyletran191">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kyletran191&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/zcrew0x">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zcrew0x&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kyletran191"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyletran191&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/zcrew0x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcrew0x&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<h1 align="center">Hi there 👋, I'm Kyle Tran<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
+<h1 align="center">Hi there 👋, I'm ZCrew0x Tran<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
 <h3 align="center">A normal developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kyletran191&label=Profile%20views&color=0e75b6&style=flat" alt="kyletran191" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zcrew0x&label=Profile%20views&color=0e75b6&style=flat" alt="zcrew0x" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletran191&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="kyletran191" /></a> </p>
-
-- 🔭 I’m currently working on **Vortex Net**.
-
-- 📫 Contact **info@xvortex.pro**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zcrew0x&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="zcrew0x" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
