@@ -1,19 +1,55 @@
-<p align="center"><a href="https://github.com/zcrew0x">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zcrew0x&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/zcrew0x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcrew0x&layout=compact&theme=react&hide_border=true" />
-</a></p>
-<h1 align="center">Hi there 👋, I'm ZCrew0x <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&color=04FF5E&background=00FF3900&random=false&width=435&lines=Welcome+to+my+profile!;Z+C+R+E+W+0+X"></p>
+
+<h2 align="center">Hi there 👋, I'm ZCrew0x <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h2>
 <h3 align="center">A normal developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zcrew0x&label=Profile%20views&color=0e75b6&style=flat" alt="zcrew0x" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zcrew0x&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="zcrew0x" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zcrew0x&theme=onedark" alt="zcrew0x" /></a> </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+```python
+class ZCrew0x:
+
+    def __init__(self):
+        self.username = 'zcrew0x'
+        self.name = 'Kha Tran'
+        self.position = 'Web Developer - Trader'
+        self.web = 'https://khatranfx.net'
+        self.facebook = 'https://www.facebook.com/zcrew0x'
+        self.telegram = '@zcrew0x'
+        self.instagram = 'https://www.instagram.com/zcrew0x'
+        self.code = {
+            'backend': ['Python', 'Flask', 'FastAPI', 'NodeJS', 'PHP'],
+            'database': ['MySQL', 'SQLite3'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'UI/UX'],
+            'tools': ['GIT', 'GitHub', 'VS Code', 'TradingView', 'HTTP Debugger Pro', 'Silver Bullet Pro', 'PostMan', 'Nginx', 'MobaXterm'],
+            'skills': ['Network', 'Security', 'Attack', 'Markets Analyst', 'FL Studio']
+        }
+        self.os = ['Windows', 'Arch Linux', 'MacOS Ventura', 'Ubuntu', 'ZorinOS', 'Kali Linux', 'BlackArch']
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+if __name__ == '__main__':
+    me = ZCrew0x()
+    print(me)
 
-<h3 align="left">Support:</h3>
-<p>Donate me <a href = "https://www.paypal.com/paypalme/tranbaokha" target="_blank">Paypal</a> </p>
 
+```
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center"><a href="https://github.com/zcrew0x">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zcrew0x&show_icons=true&theme=gotham" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/zcrew0x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcrew0x&layout=compact&theme=gotham" />
+</a></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!..." ></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <h3>Donate me here</h3>
+  <br>
+  <a href="https://paypal.me/khatranfx" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png" alt="Check out with PayPal" /></a>
+</p>
