@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&color=04FF5E&background=00FF3900&random=false&width=435&lines=Welcome+to+my+profile!;Z+C+R+E+W+0+X"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&center=true&vCenter=true&color=04FF5E&background=00FF3900&random=false&width=435&lines=Welcome+to+my+profile!;Z+C+R+E+W+0+X"></p>
 
 <h2 align="center">Hi there 👋, I'm ZCrew0x <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h2>
 <h3 align="center">A normal developer</h3>
