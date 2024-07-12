@@ -16,10 +16,10 @@ class ZCrew0x:
         self.username = 'zcrew0x'
         self.name = 'Kha Tran'
         self.position = 'Web Developer - Trader'
-        self.web = 'https://khatranfx.net'
+        self.web = 'https://khatranfx.net - https://xwcapital.net'
         self.facebook = 'https://www.facebook.com/zcrew0x'
-        self.telegram = '@zcrew0x'
-        self.instagram = 'https://www.instagram.com/zcrew0x'
+        self.telegram = '@zurixw'
+        self.discord = 'zcrew0x'
         self.code = {
             'backend': ['Python', 'Flask', 'FastAPI', 'NodeJS', 'PHP'],
             'database': ['MySQL', 'SQLite3'],
