@@ -15,15 +15,15 @@ class ZCrew0x:
     def __init__(self):
         self.username = 'zcrew0x'
         self.name = 'Kha Tran'
-        self.position = 'Web Developer - Trader'
-        self.web = 'https://khatranfx.net - https://xwcapital.net'
-        self.facebook = 'https://www.facebook.com/zcrew0x'
+        self.position = 'Developer - Trader'
+        self.web = 'https://profile.khatran.live'
+        self.facebook = 'https://www.facebook.com/khatran.no1'
         self.telegram = '@zurixw'
         self.discord = 'zcrew0x'
         self.code = {
             'backend': ['Python', 'Flask', 'FastAPI', 'NodeJS', 'PHP'],
             'database': ['MySQL', 'SQLite3'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'UI/UX'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'tools': ['GIT', 'GitHub', 'VS Code', 'TradingView', 'HTTP Debugger Pro', 'Silver Bullet Pro', 'PostMan', 'Nginx', 'MobaXterm'],
             'skills': ['Network', 'Security', 'Attack', 'Markets Analyst', 'FL Studio']
         }
