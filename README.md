@@ -18,7 +18,7 @@ class ZCrew0x:
         self.position = 'Developer - Trader'
         self.web = 'https://profile.khatran.live'
         self.facebook = 'https://www.facebook.com/khatran.no1'
-        self.telegram = '@zurixw'
+        self.telegram = '@zcrew0x'
         self.discord = 'zcrew0x'
         self.code = {
             'backend': ['Python', 'Flask', 'FastAPI', 'NodeJS', 'PHP'],
